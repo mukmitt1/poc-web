@@ -28,5 +28,5 @@ jobs:
       with:
         app-name: 'rtd-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0e694ab9b81e48adb9ceaed1fa06c834 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8450567688da40d68e79384af0681993 }}
         package: '${{ github.workspace }}/target/*.war'
