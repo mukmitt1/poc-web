@@ -62,11 +62,11 @@
                     <version>3.2.3</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>SpringRestJwt</warName>
+                        <warName>rtd-app</warName>
                     </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
-    <finalName>poc-web</finalName>
+    <finalName>rtd-app</finalName>
   </build>
 </project>
